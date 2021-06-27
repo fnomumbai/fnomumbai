@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fnomumbai
+- 👋 Hi, I’m vivek
 - 👀 I’m interested in Phython
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
